@@ -2,9 +2,7 @@
 
 ### [배포링크](https://readyou.vercel.app/)
 
-<p align="center">
-<img src="https://readyou.s3.ap-southeast-2.amazonaws.com/92f37744-a33a-491c-91c1-d7ec6f61ce2c-facebook.png" width="60%" />
-</p>
+![image](https://github.com/user-attachments/assets/4bf3474f-0062-4bd2-940d-e617981e46f0)
 
 # 💼 서비스 소개
 **README.md** 파일은 **코드 프로젝트의 첫인상을 결정짓는 중요한 콘텐츠**입니다. 
