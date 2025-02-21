@@ -1,4 +1,4 @@
-# [2조_READ US] READ YOU _ 테오의 스프린트 17기
+## READ YOU
 
 ### [배포링크](https://readyou.vercel.app/)
 
