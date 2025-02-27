@@ -32,6 +32,7 @@
 ### 3️⃣ 프리뷰를 통해 작성하는 내용을 실시간으로 확인할 수 있어요.
 ![3](https://github.com/Read-U/readyou-front/assets/81246338/f0070fe3-d3c9-4c30-a98c-d71ac16ea837)
 
+<br >
 
 - 사용한 기술 스택을 검색 해 보세요.
   ![4](https://github.com/Read-U/readyou-front/assets/81246338/63d87c23-8ef8-4537-bdbc-55e934a046ab)
